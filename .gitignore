@@ -38,3 +38,5 @@ wandb/
 *.log
 
 /submodule/MoGe/
+
+.venv-da3/
